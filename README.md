@@ -79,3 +79,6 @@ SubTitleAI is a real-time speech-to-text and video subtitle overlay tool powered
 - OpenAI for providing the Whisper speech-to-text model.
 - OpenCV for robust video processing and face detection.
 - Python community for supporting rich libraries and tools.
+  
+![image](https://github.com/user-attachments/assets/0437ece3-47b8-48be-81c4-ac4a1ea5921f)
+
