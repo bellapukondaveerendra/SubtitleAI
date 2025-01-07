@@ -1,7 +1,5 @@
 ### **SubTitleAI**
 
-`
-
 SubTitleAI is a real-time speech-to-text and video subtitle overlay tool powered by AI. The application captures live speech, transcribes it into subtitles using OpenAI's Whisper model, and dynamically overlays the subtitles on a camera feed above detected faces. Ideal for real-time accessibility, video streaming, and language learning applications.
 
 ## Features
