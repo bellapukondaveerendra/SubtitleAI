@@ -24,7 +24,6 @@ SubTitleAI is a real-time speech-to-text and video subtitle overlay tool powered
    ```
    git clone https://github.com/bellapukondaveerendra/SubtitleAI
    cd SubtitleAI
-
    ```
 
 1. **Install Dependencies**: Ensure you have Python 3.7+ installed, then install the required libraries:
@@ -34,7 +33,7 @@ SubTitleAI is a real-time speech-to-text and video subtitle overlay tool powered
 1. **Download Whisper Model**: The Whisper model will be downloaded automatically when you run the project for the first time.
 
 1. **Run the Application**:
-
+   you can run the application by running the below python command
    `python video_app.py`
 
 ## Usage
@@ -79,6 +78,5 @@ SubTitleAI is a real-time speech-to-text and video subtitle overlay tool powered
 - OpenAI for providing the Whisper speech-to-text model.
 - OpenCV for robust video processing and face detection.
 - Python community for supporting rich libraries and tools.
-  
-![image](https://github.com/user-attachments/assets/0437ece3-47b8-48be-81c4-ac4a1ea5921f)
 
+![image](https://github.com/user-attachments/assets/0437ece3-47b8-48be-81c4-ac4a1ea5921f)
