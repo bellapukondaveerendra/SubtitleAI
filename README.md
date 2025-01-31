@@ -33,7 +33,6 @@ SubTitleAI is a real-time speech-to-text and video subtitle overlay tool powered
 1. **Download Whisper Model**: The Whisper model will be downloaded automatically when you run the project for the first time.
 
 1. **Run the Application**:
-   you can run the application by running the below python command
    `python video_app.py`
 
 ## Usage
